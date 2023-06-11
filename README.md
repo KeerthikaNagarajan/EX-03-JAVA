@@ -1,17 +1,17 @@
-## Ex-3
+## Ex-03:
 ## Java program to find the number of days in a month
-### Aim:
+### AIM:
 To write a java program to find the number of days in a month
 
-### Procedure:
-* Import required packages.
-* Declare main method with the signature "public static void main(String[] args)".
-* Get the month input from user.
-* Use switch method to find the number of days for the given month input.
-* Display the output.
+### ALGORITHM:
+1. Import required packages.
+2. Declare main method with the signature "public static void main(String[] args)".
+3. Get the month input from user.
+4. Use switch method to find the number of days for the given month input.
+5. Display the output.
 
-### Code:
-```
+### PROGRAM:
+```java
 import java.util.Scanner;
 public class Ex3
 {
@@ -63,9 +63,9 @@ public class Ex3
     }
 }
 ```
-### Output:
+### OUTPUT:
 <img width="185" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-3/assets/93427089/08980265-5b72-4334-b264-5cbd7f193ca1">
 
-### Result:
+### RESULT:
 To write a java program to find the number of days in a month was successfully done.
 
